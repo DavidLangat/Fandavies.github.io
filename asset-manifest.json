@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d772f9fc.css",
-    "main.js": "/static/js/main.6ee7ea94.js",
-    "index.html": "/index.html",
-    "main.d772f9fc.css.map": "/static/css/main.d772f9fc.css.map",
-    "main.6ee7ea94.js.map": "/static/js/main.6ee7ea94.js.map"
+    "main.css": "./static/css/main.b25b99a6.css",
+    "main.js": "./static/js/main.b1723583.js",
+    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/dave.jpg": "./static/media/dave.a8e61e51fb281e883062.jpg",
+    "static/media/Netflix_Clone.png": "./static/media/Netflix_Clone.0ab0b21762f2c691ffe0.png",
+    "static/media/hotel.png": "./static/media/hotel.ee8ffe7423213b4ba344.png",
+    "static/media/Chatbot.png": "./static/media/Chatbot.9f0e7098b1785e900c18.png",
+    "static/media/Ehealth.png": "./static/media/Ehealth.ff473b28d4e79ba731d9.png",
+    "static/media/bg5.jpg": "./static/media/bg5.cd7559f0ef77961e7991.jpg",
+    "static/media/todo.png": "./static/media/todo.3beff4fd0a0f79a1c219.png",
+    "static/media/stop.png": "./static/media/stop.12795471289a7d189c25.png",
+    "index.html": "./index.html",
+    "main.b25b99a6.css.map": "./static/css/main.b25b99a6.css.map",
+    "main.b1723583.js.map": "./static/js/main.b1723583.js.map",
+    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d772f9fc.css",
-    "static/js/main.6ee7ea94.js"
+    "static/css/main.b25b99a6.css",
+    "static/js/main.b1723583.js"
   ]
 }
